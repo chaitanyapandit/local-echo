@@ -42,6 +42,7 @@
     }
   },
   "dependencies": {
-    "shell-quote": "^1.6.1"
+    "shell-quote": "^1.6.1",
+    "printable-characters": "^1.0.42"
   }
 }
